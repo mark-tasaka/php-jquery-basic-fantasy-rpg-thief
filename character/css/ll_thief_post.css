@@ -1,0 +1,294 @@
+/*Labyrinth Lord post data css*/
+
+#characterName{
+    position:absolute;
+    top: 145px;
+    left: 130px;
+	font-size: 1em;
+}
+
+#race{
+    position:absolute;
+    top: 188px;
+    left: 130px;
+	font-size: 1em;
+}
+
+
+
+#playerName{
+    position:absolute;
+    top: 145px;
+    left: 430px;
+	font-size: 1em;
+}
+
+
+#armourName{
+    position:absolute;
+    top: 540px;
+    left: 480px;
+	font-size: 1.1em;
+}
+
+#armourAc{
+    position:absolute;
+    top: 800px;
+    left: 850px;
+	font-size: 0.8em;
+}
+
+
+#armourWeight{
+    position:absolute;
+    top: 800px;
+    left: 895px;
+	font-size: 0.8em;
+}
+
+#shieldName{
+    position:absolute;
+    top: 528px;
+    left: 806px;
+	font-size: 1.3em;
+}
+
+#shieldAc{
+    position:absolute;
+    top: 820px;
+    left: 850px;
+	font-size: 0.8em;
+}
+
+
+#shieldWeight{
+    position:absolute;
+    top: 820px;
+    left: 895px;
+	font-size: 0.8em;
+}
+
+
+#weaponsList{
+    position:absolute;
+    top: 390px;
+    left: 470px;
+	font-size: 0.7em;
+}
+
+#weaponsList2{
+    position:absolute;
+    top: 390px;
+    left: 710px;
+	font-size: 0.7em;
+}
+
+
+
+#totalArmourClassMod{
+    position:absolute;
+    top: 855px;
+    left: 850px;
+	font-size: 0.8em;
+}
+
+#totalArmourWeight{
+    position:absolute;
+    top: 555px;
+    left: 750px;
+	font-size: 0.5em;
+}
+
+
+#totalWeaponWeight{
+    position:absolute;
+    top: 468px;
+    left: 720px;
+	font-size: 0.5em;
+}
+
+
+#totalGearWeight{
+    position:absolute;
+    top: 1015px;
+    left: 700px;
+	font-size: 0.5em;
+}
+
+
+
+#weaponNotes{
+    position:absolute;
+    top: 1143px;
+    left: 610px;
+	font-size: 0.4em;
+}
+
+
+#gearList{
+    position:absolute;
+    top: 845px;
+    left: 455px;
+	font-size: 0.7em;
+    width: 430px;
+}
+
+#gearList2{
+    position:absolute;
+    top: 270px;
+    left: 900px;
+	font-size: 0.6em;
+}
+
+
+#clothingList{
+    position:absolute;
+    top: 570px;
+    left: 670px;
+	font-size: 0.6em;
+}
+
+#clothingList2{
+    position:absolute;
+    top: 570px;
+    left: 900px;
+	font-size: 0.6em;
+}
+
+#totalWeightCarried{
+    position:absolute;
+    top: 1120px;
+    left: 165px;
+	font-size: 1em;
+}
+
+
+#move{
+    position:absolute;
+    top: 1072px;
+    left: 165px;
+	font-size: 1em;
+}
+
+#lightLoad{
+    position:absolute;
+    top: 1086px;
+    left: 360px;
+	font-size: 0.65em;
+}
+
+#lightLoadChecked{
+    position:absolute;
+    top: 1075px;
+    left: 275px;
+	font-size: 1em;
+}
+
+#heavyLoad{
+    position:absolute;
+    top: 1135px;
+    left: 360px;
+	font-size: 0.65em;
+}
+
+
+#heavyLoadChecked{
+    position:absolute;
+    top: 1117px;
+    left: 275px;
+	font-size: 1em;
+}
+
+
+#wealth{
+    position:absolute;
+    top: 1085px;
+    left: 465px;
+	font-size: 0.7em;
+}
+
+#coinWeight{
+    position:absolute;
+    top: 1145px;
+    left: 565px;
+	font-size: 0.5em;
+}
+
+
+
+#level{
+    position:absolute;
+    top: 188px;
+    left: 575px;
+	font-size: 1em;
+}
+
+
+#characterRaceTitle{
+    position:absolute;
+    top: 830px;
+    left: 60px;
+	font-size: 0.7em;
+}
+
+
+#characterRaceTrait{
+    position:absolute;
+    top: 640px;
+    left: 655px;
+    width: 245px;
+	font-size: 0.6em;
+}
+
+
+#openLocks{
+    position:absolute;
+    top: 594px;
+    left: 568px;
+	font-size: 0.8em;
+}
+
+#removeTraps{
+    position:absolute;
+    top: 622px;
+    left: 568px;
+	font-size: 0.8em;
+}
+
+#pickPockets{
+    position:absolute;
+    top: 648px;
+    left: 568px;
+	font-size: 0.8em;
+}
+
+#moveSilently{
+    position:absolute;
+    top: 676px;
+    left: 568px;
+	font-size: 0.8em;
+}
+
+#climbWalls{
+    position:absolute;
+    top: 701px;
+    left: 568px;
+	font-size: 0.8em;
+}
+
+
+#hide{
+    position:absolute;
+    top: 729px;
+    left: 568px;
+	font-size: 0.8em;
+}
+
+#listen{
+    position:absolute;
+    top: 757px;
+    left: 568px;
+	font-size: 0.8em;
+}
+
+
